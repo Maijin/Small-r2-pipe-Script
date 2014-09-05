@@ -1,0 +1,10 @@
+First Instruction,Get library
+pi 1,il
+"xor ebp, ebp
+","[Linked libraries]
+libselinux.so.1
+libacl.so.1
+libc.so.6
+
+3 libraries
+"
